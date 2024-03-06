@@ -9,3 +9,5 @@ For the MacOS script, you will need to make the file executable by doing the fol
 
 chmod +x BootstrapMacOS.sh
 
+IMPORTANT - These scripts assume you have installed the wallet into the default locations. If you have not, you will need to edit the scripts to point towards your own AIPG data directory.
+
